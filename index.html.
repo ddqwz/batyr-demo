@@ -1,1 +1,94 @@
+<div class="nav-links">
+      <a href="#services">Услуги</a>
+      <a href="#about">О нас</a>
+      <a href="#contacts">Контакты</a>
+    </div>
+
+    <a href="#contacts" class="nav-button">ЗАПИСАТЬСЯ</a>
+  </nav>
+</div>
+      <h1>ТВОЙ СТИЛЬ.<br><span>ТВОИ ПРАВИЛА.</span></h1>
+
+      <p class="hero-text">
+        Мужская территория, где внимание к деталям
+        становится частью твоего образа.
+      </p>
+
+      <a href="#contacts" class="button">ЗАПИСАТЬСЯ НА СТРИЖКУ ↗️</a>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="services">
+  <div class="container">
+    <div class="section-label">НАШИ УСЛУГИ</div>
+    <h2>УХОД ЗА ТВОИМ СТИЛЕМ</h2>
+
+    <div class="services">
+      <div class="service">
+        <div class="service-number">01</div>
+        <h3>Мужская стрижка</h3>
+        <p>Индивидуальный подход к форме и стилю.</p>
+        <div class="price">Цена уточняется</div>
+      </div>
+
+      <div class="service">
+        <div class="service-number">02</div>
+        <h3>Стрижка машинкой</h3>
+        <p>Чёткие линии и аккуратный результат.</p>
+        <div class="price">Цена уточняется</div>
+      </div>
+
+      <div class="service">
+        <div class="service-number">03</div>
+        <h3>Оформление бороды</h3>
+        <p>Уход и создание аккуратной формы бороды.</p>
+        <div class="price">Цена уточняется</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section about" id="about">
+  <div class="container">
+    <div class="about-grid">
+      <div class="about-image"></div>
+
+      <div>
+        <div class="section-label">BATYR BARBERSHOP</div>
+        <h2>БОЛЬШЕ, ЧЕМ ПРОСТО СТРИЖКА</h2>
+        <p class="about-text">
+          Место, где можно уделить время себе,
+          обновить образ и получить качественный
+          мужской уход.
+        </p>
+        <a href="#contacts" class="button">НАЙТИ НАС ↗️</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="contacts">
+  <div class="container">
+    <div class="section-label">МЫ ЖДЁМ ТЕБЯ</div>
+    <h2>НАШИ КОНТАКТЫ</h2>
+
+    <div class="contact-box">
+      <div class="contact-item">
+        <small>АДРЕС</small>
+        <p>Караганда, улица Шахтёров, 52</p>
+      </div>
+
+      <div class="contact-item">
+        <small>ЗАПИСЬ</small>
+        <p>Контакты уточняются</p>
+      </div>
+
+      <div class="contact-item">
+        <small>ГРАФИК РАБОТЫ</small>
+        <p>Уточняется</p>
+      </div>
+    </div>
+  </div>
+</section>
 
